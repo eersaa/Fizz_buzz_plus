@@ -1,3 +1,5 @@
+Resulting code from coding exercise in Cyber-dojo.
+
 Write a program that prints the numbers from 1 to 100, but...
 
 numbers that are exact multiples of 3, or that contain 3, must print a string containing "Fizz"
